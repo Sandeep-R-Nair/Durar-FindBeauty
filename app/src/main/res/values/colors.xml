@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="inactive_text_grey">#FFA8A5A5</color>
+    <color name="top_service_grey_bg">#FFF8F8F8</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="bottom_navigation_item_color">#FFFE0E3B</color>
+    <color name="bottom_navigation_background_color">#FFF6F6F6</color>
+    <color name="search_box_color">#FFF5F5F5</color>
+    <color name="search_box_border_color">#FFE5E5E5</color>
+    <color name="colorChartBg">#3C4248</color>
+    <color name="red">#FE0E3B</color>
+    <color name="green">#97F703</color>
+    <color name="blue">#19D6DF</color>
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_service_recycler_item_height">40dp</dimen>
+    <dimen name="appointmentActivityItemHeight">75dp</dimen>
+    <dimen name="upcomingAppointmentItemHeight">75dp</dimen>
+</resources>
